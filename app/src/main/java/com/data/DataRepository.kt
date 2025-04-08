@@ -2,7 +2,7 @@ package com.data
 
 val userDefault = User(
     userId = "Aluno",
-    name = "Aluno DS",
+    name = "Rodrigo Lima",
     avatarUrl = null,
     age = 16,
     score = 75,
