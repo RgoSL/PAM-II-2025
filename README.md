@@ -1,3 +1,11 @@
-# Front-End de uma Tela de Perfil
+# 💅🏻 Aprimorando a Tela de Perfil
 
-O aplicativo a seguir possui Inputs, um Botão para o envio dos dados e um Icone para o Perfil do usuário.
+### Descrição
+
+> O segundo aplicativo continha alguns componentes a mais para a criação desse tipo de Front-end.
+
+<br>
+
+ <img src= "https://github.com/RgoSL/PAM-II-2025/blob/main/Kotlin%20Full%20Color%20Logo%20on%20White%20RGB.svg" align = center width = 400px alt="Logo Kotlin"/>
+
+---
