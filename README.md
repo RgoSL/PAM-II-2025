@@ -6,6 +6,6 @@
 
 <br>
 
- <img src= "https://github.com/RgoSL/PAM-II-2025/blob/main/firebase.png" align = center width = 400px alt="Logo Kotlin"/>
+ <img src= "https://github.com/RgoSL/PAM-II-2025/blob/main/firebase.png" align = center width = 400px alt="Logo Firebase"/>
 
 ---
