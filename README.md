@@ -6,6 +6,6 @@
 
 <br>
 
- <img src= "https://github.com/RgoSL/PAM-II-2025/blob/main/sqlite.png" align = center width = 400px alt="Logo SQLite"/>
+ <img src= "https://github.com/RgoSL/PAM-II-2025/blob/main/sqlite.svg" align = center width = 400px alt="Logo SQLite"/>
 
 ---
