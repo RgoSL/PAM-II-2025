@@ -33,4 +33,11 @@ O quinto aplicativo foi sobre a criação de um app para armazenar certos dados 
 - <img src="https://skillicons.dev/icons?i=sqlite" width = 15px height = 15px /> [Quinto Aplicativo](https://github.com/RgoSL/PAM-II-2025/tree/Ativ05) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
 <br>
 
+### <img src="https://skillicons.dev/icons?i=firebase" width = 30px height = 30px /> CRUD Firebase
+O sexto aplicativo foi desenvolvido com Firebase e contava com algumas funções CRUD, como criação, visualização e autenticação.
+- <img src="https://skillicons.dev/icons?i=firebase" width = 15px height = 15px /> [Sexto Aplicativo](https://github.com/RgoSL/PAM-II-2025/tree/Ativ06) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
+<br>
+
+
+
 ----
