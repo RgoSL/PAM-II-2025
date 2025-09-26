@@ -38,6 +38,11 @@ O sexto aplicativo foi desenvolvido com Firebase e contava com algumas funções
 - <img src="https://skillicons.dev/icons?i=firebase" width = 15px height = 15px /> [Sexto Aplicativo](https://github.com/RgoSL/PAM-II-2025/tree/Ativ06) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
 <br>
 
+### 🔐 Firebase Auth
+O sétimo aplicativo focou em uma integração mais simples do Google Authentication.
+- 🔐 [Sétimo Aplicativo](https://github.com/RgoSL/PAM-II-2025/tree/Ativ07) <!-- ⬅️ LINK PARA A RESPECTIVA BRANCH -->
+<br>
+
 
 
 ----
